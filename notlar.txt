@@ -1,0 +1,3 @@
+- Arka planda özelliği eklendi!
+- Bildirim sistemi eklendi!
+- Veritaban sistemi güncellendi!
